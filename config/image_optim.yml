@@ -1,2 +1,4 @@
 pngout: false
 jhead: false
+svgo: false
+pngquant: false
